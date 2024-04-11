@@ -1,0 +1,10 @@
+C:\Users\austi\OneDrive\Desktop\PROG1965 PC II\assignments\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\austi\OneDrive\Desktop\PROG1965 PC II\assignments\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\austi\OneDrive\Desktop\PROG1965 PC II\assignments\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\austi\OneDrive\Desktop\PROG1965 PC II\assignments\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.AssemblyReference.cache
+C:\Users\austi\OneDrive\Desktop\PROG1965 PC II\assignments\Assignment 2\Assignment 2\obj\Debug\Assignment_2.Mainform.resources
+C:\Users\austi\OneDrive\Desktop\PROG1965 PC II\assignments\Assignment 2\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Users\austi\OneDrive\Desktop\PROG1965 PC II\assignments\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.GenerateResource.cache
+C:\Users\austi\OneDrive\Desktop\PROG1965 PC II\assignments\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\austi\OneDrive\Desktop\PROG1965 PC II\assignments\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\austi\OneDrive\Desktop\PROG1965 PC II\assignments\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
